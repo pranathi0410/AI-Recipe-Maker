@@ -8,11 +8,19 @@ A full-stack MERN application that generates recipes using AI based on user-prov
 - Recipe cards UI
 - Favorites management
 
-## Tech Stack
-Frontend: React  
-Backend: Node.js, Express  
-Database: MongoDB  
-AI: OpenAI API  
+## 🛠️ Tech Stack
+
+**Frontend:**  
+React.js, JavaScript, CSS  
+
+**Backend:**  
+Node.js, Express.js  
+
+**Database:**  
+MongoDB  
+
+**AI Integration:**  
+Groq API (LLM)
 
 ## Folder Structure
 /client → React app  
