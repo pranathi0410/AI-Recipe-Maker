@@ -11,7 +11,7 @@ A full-stack MERN application that generates recipes using AI based on user-prov
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-React.js, JavaScript, CSS  
+React.js + Vite, JavaScript, CSS  
 
 **Backend:**  
 Node.js, Express.js  
